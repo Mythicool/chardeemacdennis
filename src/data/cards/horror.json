@@ -1,0 +1,92 @@
+[
+  {
+    "id": "horror_001",
+    "phase": "horror",
+    "category": "Existential Terror",
+    "title": "The Void Stares Back",
+    "challenge": "Stare at yourself in a mirror for 5 minutes without blinking or looking away. Contemplate your mortality. If you blink or look away: drink and confront the fact that you are weak. If you succeed: everyone else must do the same.",
+    "isWildcard": false,
+    "difficulty": "nightmare"
+  },
+  {
+    "id": "horror_002",
+    "phase": "horror",
+    "category": "Social Annihilation",
+    "title": "The Ex Files",
+    "challenge": "Call your most recent ex and ask for a character reference for this game. Put it on speaker. If they hang up: drink twice. If they give you a bad reference: drink four times. If they give you a good reference: everyone else drinks.",
+    "isWildcard": false,
+    "difficulty": "nightmare"
+  },
+  {
+    "id": "horror_003",
+    "phase": "horror",
+    "category": "Egg-Based Ritual",
+    "title": "The Offering",
+    "challenge": "Crack a raw egg into a glass and drink it while maintaining eye contact with your reflection. If you gag or break eye contact: drink twice more and try again. If you succeed: you have transcended.",
+    "isWildcard": false,
+    "difficulty": "nightmare"
+  },
+  {
+    "id": "horror_004",
+    "phase": "horror",
+    "category": "Digital Humiliation",
+    "title": "Social Media Suicide",
+    "challenge": "Post your most unflattering photo with the caption 'This is what peak performance looks like.' Leave it up for 24 hours. If you refuse: drink five times and let the opposing team choose and post a photo for you.",
+    "isWildcard": false,
+    "difficulty": "nightmare"
+  },
+  {
+    "id": "horror_005",
+    "phase": "horror",
+    "category": "Psychological Torture",
+    "title": "The Truth Serum",
+    "challenge": "Answer any question asked by the opposing team with complete honesty for the next 10 minutes. If you lie or refuse to answer: drink three times and extend the time by 5 minutes.",
+    "isWildcard": false,
+    "difficulty": "nightmare"
+  },
+  {
+    "id": "horror_006",
+    "phase": "horror",
+    "category": "Physical Degradation",
+    "title": "The Crawl of Shame",
+    "challenge": "Crawl on your belly across the room while the opposing team lists your failures and shortcomings. If you stand up before reaching the other side: start over and drink twice.",
+    "isWildcard": false,
+    "difficulty": "nightmare"
+  },
+  {
+    "id": "horror_007",
+    "phase": "horror",
+    "category": "Relationship Apocalypse",
+    "title": "Family Disappointment",
+    "challenge": "Call a family member and tell them you're 'reassessing your life choices' because of a card game. If they express concern: you win. If they don't care: drink three times for being unloved.",
+    "isWildcard": false,
+    "difficulty": "nightmare"
+  },
+  {
+    "id": "horror_008",
+    "phase": "horror",
+    "category": "Identity Destruction",
+    "title": "The Roast",
+    "challenge": "Stand in the center while everyone else takes turns roasting you for 2 minutes each. You cannot respond or defend yourself. If you cry: the game ends and you lose everything. If you survive: you are reborn.",
+    "isWildcard": false,
+    "difficulty": "nightmare"
+  },
+  {
+    "id": "horror_wildcard_001",
+    "phase": "horror",
+    "category": "🃏 APOCALYPSE",
+    "title": "The Final Judgment",
+    "challenge": "APOCALYPSE WILDCARD! Everyone must vote on who deserves to win based on their performance throughout the entire game. The person with the least votes is eliminated from victory consideration and must perform the Crawl of Shame.",
+    "isWildcard": true,
+    "difficulty": "special"
+  },
+  {
+    "id": "horror_wildcard_002",
+    "phase": "horror",
+    "category": "🃏 APOCALYPSE",
+    "title": "Reset to Zero",
+    "challenge": "APOCALYPSE WILDCARD! All progress is reset. All teams go back to Phase 1 with 0 wins. The Shame Hat is set on fire (safely). The game begins anew, but everyone remembers what they've done.",
+    "isWildcard": true,
+    "difficulty": "special"
+  }
+]

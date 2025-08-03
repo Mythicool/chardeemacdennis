@@ -1,0 +1,110 @@
+[
+  {
+    "id": "spirit_001",
+    "phase": "spirit",
+    "category": "Emotional Warfare",
+    "title": "The Breakdown",
+    "challenge": "Share your most embarrassing moment from the last year. If you refuse: drink three times and wear the Shame Hat. If you share: choose someone else to share theirs or drink twice.",
+    "isWildcard": false,
+    "difficulty": "hard"
+  },
+  {
+    "id": "spirit_002",
+    "phase": "spirit",
+    "category": "Moral Superiority",
+    "title": "Character Defense",
+    "challenge": "Defend why you're the most moral person in the room for 2 minutes. Other teams can interrupt with evidence to the contrary. If you're successfully contradicted: drink and apologize.",
+    "isWildcard": false,
+    "difficulty": "hard"
+  },
+  {
+    "id": "spirit_003",
+    "phase": "spirit",
+    "category": "Soul Crushing",
+    "title": "Dream Destroyer",
+    "challenge": "Each opposing team member must share a childhood dream. You must explain why it was unrealistic. If anyone cries: you win. If no one cries: you drink twice.",
+    "isWildcard": false,
+    "difficulty": "extreme"
+  },
+  {
+    "id": "spirit_004",
+    "phase": "spirit",
+    "category": "Betrayal",
+    "title": "Team Sabotage",
+    "challenge": "Choose a teammate to publicly criticize for 1 minute. They cannot defend themselves. If they interrupt: they drink. If you refuse: you drink three times.",
+    "isWildcard": false,
+    "difficulty": "extreme"
+  },
+  {
+    "id": "spirit_005",
+    "phase": "spirit",
+    "category": "Psychological Manipulation",
+    "title": "The Gaslighting",
+    "challenge": "Convince someone that they said something they didn't say earlier in the game. If they believe you: they drink. If they don't: you drink twice.",
+    "isWildcard": false,
+    "difficulty": "hard"
+  },
+  {
+    "id": "spirit_006",
+    "phase": "spirit",
+    "category": "Shame Spiral",
+    "title": "Public Humiliation",
+    "challenge": "Post a photo of yourself wearing the Shame Hat on social media with the caption \"I am not worthy of Chardee MacDennis.\" If you refuse: drink four times and the opposing team gets to post it for you.",
+    "isWildcard": false,
+    "difficulty": "extreme"
+  },
+  {
+    "id": "spirit_007",
+    "phase": "spirit",
+    "category": "Existential Dread",
+    "title": "Life Choices",
+    "challenge": "Name your biggest regret and explain how it defines you as a person. If you refuse: drink three times. If you share: everyone else must share theirs or drink twice.",
+    "isWildcard": false,
+    "difficulty": "extreme"
+  },
+  {
+    "id": "spirit_008",
+    "phase": "spirit",
+    "category": "Relationship Destruction",
+    "title": "Contact Roulette",
+    "challenge": "Call or text someone from your contacts and tell them you're playing a \"friendship-destroying game.\" If they respond positively: you win. If they don't respond or respond negatively: drink twice.",
+    "isWildcard": false,
+    "difficulty": "extreme"
+  },
+  {
+    "id": "spirit_009",
+    "phase": "spirit",
+    "category": "Identity Crisis",
+    "title": "Mirror of Truth",
+    "challenge": "Look in a mirror and list 5 things you hate about yourself. If you refuse: drink four times. If you do it: choose someone else to do the same or drink three times.",
+    "isWildcard": false,
+    "difficulty": "extreme"
+  },
+  {
+    "id": "spirit_010",
+    "phase": "spirit",
+    "category": "Social Destruction",
+    "title": "Friendship Ender",
+    "challenge": "Tell each person in the room one thing that annoys you about them. If anyone gets upset: you win, they drink. If no one cares: you drink three times for being irrelevant.",
+    "isWildcard": false,
+    "difficulty": "extreme"
+  },
+  {
+    "id": "spirit_wildcard_001",
+    "phase": "spirit",
+    "category": "🃏 WILDCARD",
+    "title": "The Nuclear Option",
+    "challenge": "WILDCARD! Everyone must reveal their most toxic trait. The group votes on who has the worst one. That person drinks four times and must wear the Shame Hat for the rest of the game.",
+    "isWildcard": true,
+    "difficulty": "special"
+  },
+  {
+    "id": "spirit_wildcard_002",
+    "phase": "spirit",
+    "category": "🃏 WILDCARD",
+    "title": "Emotional Immunity",
+    "challenge": "WILDCARD! Your team is immune to all emotional damage for the next 3 cards. You automatically succeed at all Spirit challenges.",
+    "isWildcard": true,
+    "difficulty": "special"
+  }
+]

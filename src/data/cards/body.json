@@ -1,0 +1,110 @@
+[
+  {
+    "id": "body_001",
+    "phase": "body",
+    "category": "Physical Prowess",
+    "title": "Mac's Workout",
+    "challenge": "Do 10 push-ups while shouting \"I'M A FIVE-STAR MAN!\" after each one. If you can't complete them: drink for each one you missed. If you do it: opposing team drinks.",
+    "isWildcard": false,
+    "difficulty": "medium"
+  },
+  {
+    "id": "body_002",
+    "phase": "body",
+    "category": "Pain Tolerance",
+    "title": "Charlie's Teeth",
+    "challenge": "Eat something crunchy (crackers, chips) while making exaggerated chewing sounds for 1 minute. If you stop early: drink. If you complete it: choose someone to drink.",
+    "isWildcard": false,
+    "difficulty": "easy"
+  },
+  {
+    "id": "body_003",
+    "phase": "body",
+    "category": "Coordination",
+    "title": "Dee's Dance",
+    "challenge": "Perform an interpretive dance representing \"a bird trying to be human\" for 45 seconds. If anyone laughs: they drink. If no one laughs: you drink twice.",
+    "isWildcard": false,
+    "difficulty": "medium"
+  },
+  {
+    "id": "body_004",
+    "phase": "body",
+    "category": "Endurance",
+    "title": "Frank's Crawl",
+    "challenge": "Army crawl across the room while narrating your journey like a nature documentary. If you break character: drink. If you make it: opposing team drinks.",
+    "isWildcard": false,
+    "difficulty": "medium"
+  },
+  {
+    "id": "body_005",
+    "phase": "body",
+    "category": "Balance",
+    "title": "Dennis's Poise",
+    "challenge": "Stand on one foot for 2 minutes while maintaining perfect posture and a smug expression. If you fall or break expression: drink. If you succeed: everyone else drinks.",
+    "isWildcard": false,
+    "difficulty": "hard"
+  },
+  {
+    "id": "body_006",
+    "phase": "body",
+    "category": "Dexterity",
+    "title": "Kitten Mittens Test",
+    "challenge": "Put socks on your hands and try to pick up 5 small objects. You have 3 minutes. For each object you can't pick up: drink. If you get all 5: opposing team drinks twice.",
+    "isWildcard": false,
+    "difficulty": "hard"
+  },
+  {
+    "id": "body_007",
+    "phase": "body",
+    "category": "Flexibility",
+    "title": "Yoga with Dee",
+    "challenge": "Attempt to touch your toes while explaining why you're better than everyone else. If you can't touch your toes OR if you stop talking: drink.",
+    "isWildcard": false,
+    "difficulty": "medium"
+  },
+  {
+    "id": "body_008",
+    "phase": "body",
+    "category": "Speed",
+    "title": "Charlie's Mailroom",
+    "challenge": "Sort a deck of cards by suit as fast as possible while humming the theme to It's Always Sunny. If you take longer than 3 minutes: drink. If you mess up the humming: drink.",
+    "isWildcard": false,
+    "difficulty": "medium"
+  },
+  {
+    "id": "body_009",
+    "phase": "body",
+    "category": "Strength",
+    "title": "Mac's Bulk",
+    "challenge": "Hold a gallon of water (or equivalent weight) above your head for 1 minute while explaining your workout routine. If you drop it or stop talking: drink twice.",
+    "isWildcard": false,
+    "difficulty": "hard"
+  },
+  {
+    "id": "body_010",
+    "phase": "body",
+    "category": "Gross Motor Skills",
+    "title": "Frank's Coil",
+    "challenge": "Spin in place 10 times, then try to walk in a straight line across the room. If you stumble or veer off course: drink. If you make it: opposing team drinks.",
+    "isWildcard": false,
+    "difficulty": "medium"
+  },
+  {
+    "id": "body_wildcard_001",
+    "phase": "body",
+    "category": "🃏 WILDCARD",
+    "title": "Fight Milk Challenge",
+    "challenge": "WILDCARD! Everyone must do jumping jacks while making crow sounds. Last person standing wins - everyone else drinks twice.",
+    "isWildcard": true,
+    "difficulty": "special"
+  },
+  {
+    "id": "body_wildcard_002",
+    "phase": "body",
+    "category": "🃏 WILDCARD",
+    "title": "Physical Immunity",
+    "challenge": "WILDCARD! Your team is immune to all physical challenges for the next 2 cards. You automatically succeed and opposing teams automatically fail.",
+    "isWildcard": true,
+    "difficulty": "special"
+  }
+]

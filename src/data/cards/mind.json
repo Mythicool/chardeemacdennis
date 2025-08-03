@@ -1,0 +1,110 @@
+[
+  {
+    "id": "mind_001",
+    "phase": "mind",
+    "category": "Delusions of Godhood",
+    "title": "Dennis's Mirror Routine",
+    "challenge": "Stare into a mirror (or someone's phone cam), say: \"You're perfection. You are raw sex. You are a goddamn specimen.\" If anyone laughs: they drink. If you laugh: drink and go to the bathroom to \"reset\" your image.",
+    "isWildcard": false,
+    "difficulty": "medium"
+  },
+  {
+    "id": "mind_002",
+    "phase": "mind",
+    "category": "Bird Law",
+    "title": "Legal Eagle",
+    "challenge": "Name 3 actual bird-related laws or regulations. If you can't, name 3 completely made-up ones with such confidence that someone believes you. Failure: drink twice.",
+    "isWildcard": false,
+    "difficulty": "hard"
+  },
+  {
+    "id": "mind_003",
+    "phase": "mind",
+    "category": "Kitten Mittens Knowledge",
+    "title": "Product Pitch",
+    "challenge": "Pitch a ridiculous product for 60 seconds without breaking character. Other teams can interrupt with \"That's stupid!\" - if you break, drink. If you finish, they drink.",
+    "isWildcard": false,
+    "difficulty": "medium"
+  },
+  {
+    "id": "mind_004",
+    "phase": "mind",
+    "category": "Philadelphia Trivia",
+    "title": "City of Brotherly Shove",
+    "challenge": "Name the 5 boroughs of Philadelphia. (Trick question - there aren't 5.) If you fall for it: drink and wear the Shame Hat. If you call it out: opposing team drinks.",
+    "isWildcard": false,
+    "difficulty": "easy"
+  },
+  {
+    "id": "mind_005",
+    "phase": "mind",
+    "category": "The Implication",
+    "title": "Boat Logic",
+    "challenge": "Explain Dennis's boat logic without using the word \"implication.\" If you use it: drink. If you can't explain it: drink twice. If you explain it perfectly: everyone else drinks.",
+    "isWildcard": false,
+    "difficulty": "hard"
+  },
+  {
+    "id": "mind_006",
+    "phase": "mind",
+    "category": "Charlie Work",
+    "title": "Conspiracy Board",
+    "challenge": "Connect any 3 random objects in the room into a conspiracy theory. You have 2 minutes. If it's not convincing: drink. If someone says \"That actually makes sense\": they drink.",
+    "isWildcard": false,
+    "difficulty": "medium"
+  },
+  {
+    "id": "mind_007",
+    "phase": "mind",
+    "category": "Mac's Moves",
+    "title": "Ocular Pat-Down",
+    "challenge": "Perform an \"ocular pat-down\" on each opposing team member. Assess their threat level out loud. If you laugh during assessment: drink. If they laugh: they drink.",
+    "isWildcard": false,
+    "difficulty": "easy"
+  },
+  {
+    "id": "mind_008",
+    "phase": "mind",
+    "category": "Dee's Failures",
+    "title": "Bird Sounds",
+    "challenge": "Make bird sounds for 30 seconds. Other teams vote if you sound like a bird. If majority says no: drink and make the sounds again until they approve.",
+    "isWildcard": false,
+    "difficulty": "easy"
+  },
+  {
+    "id": "mind_009",
+    "phase": "mind",
+    "category": "Frank's Schemes",
+    "title": "Business Venture",
+    "challenge": "Pitch a get-rich-quick scheme involving something gross. If anyone says \"ew\": you win, they drink. If no one is disgusted: you drink twice.",
+    "isWildcard": false,
+    "difficulty": "medium"
+  },
+  {
+    "id": "mind_010",
+    "phase": "mind",
+    "category": "Paddy's Pub",
+    "title": "Worst Bar Ever",
+    "challenge": "Name 5 health code violations you'd find at Paddy's Pub. Each correct answer makes opposing team drink. Each wrong answer: you drink.",
+    "isWildcard": false,
+    "difficulty": "medium"
+  },
+  {
+    "id": "mind_wildcard_001",
+    "phase": "mind",
+    "category": "🃏 WILDCARD",
+    "title": "The Dennis System",
+    "challenge": "WILDCARD! Choose an opposing team member. They must compliment you for 1 minute straight. If they repeat a compliment or pause for more than 5 seconds: they drink and continue.",
+    "isWildcard": true,
+    "difficulty": "special"
+  },
+  {
+    "id": "mind_wildcard_002",
+    "phase": "mind",
+    "category": "🃏 WILDCARD",
+    "title": "Reverse Psychology",
+    "challenge": "WILDCARD! For the next 3 cards, all drinking penalties are reversed. If you were supposed to drink, the other team drinks instead.",
+    "isWildcard": true,
+    "difficulty": "special"
+  }
+]
